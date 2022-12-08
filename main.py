@@ -1,7 +1,7 @@
-import mosules.SayHello as App
+import modules.SayHello as App
 
 def run():
-    app = App.SayHello("Git")
+    app = App.SayHello("Github!!")
     app.say()
 
 
